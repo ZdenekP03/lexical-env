@@ -1,0 +1,16 @@
+.main-div{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    justify-content: center;
+    align-items: center;
+    background-color: #313131;
+    overflow: hidden;
+}
+
+#rive-canvas1{
+    height: 100%;
+    width: 100%;
+}
